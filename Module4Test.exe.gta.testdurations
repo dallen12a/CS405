@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\Dave\source\repos\Module4Test\x64\Debug\Module4Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CollectionTest.CollectionSmartPointerIsNotNull" Duration="1" />
+    <TestDuration Test="CollectionTest.IsEmptyOnCreate" Duration="1" />
+    <TestDuration Test="CollectionTest.AlwaysFail" Duration="1" />
+    <TestDuration Test="CollectionTest.CanAddToEmptyVector" Duration="1" />
+    <TestDuration Test="CollectionTest.CanAddFiveValuesToVector" Duration="1" />
+    <TestDuration Test="CollectionTest.MaxSizeGreaterThanOrEqualToSize" Duration="1" />
+    <TestDuration Test="CollectionTest.CapacityGreaterThanOrEqualToSize" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizeIncreasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizeDecreasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.ResizeDecreasesToZero" Duration="1" />
+    <TestDuration Test="CollectionTest.ClearErasesCollection" Duration="1" />
+    <TestDuration Test="CollectionTest.EraseBeginToEnd" Duration="1" />
+    <TestDuration Test="CollectionTest.ReserveIncreasesCapacity" Duration="1" />
+    <TestDuration Test="CollectionTest.AccessOutOfRange" Duration="1" />
+    <TestDuration Test="CollectionTest.SizeEqualsNumberOfAddedElements" Duration="1" />
+    <TestDuration Test="CollectionTest.CannotAddNegativeNumberOfElements" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
